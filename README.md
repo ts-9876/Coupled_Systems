@@ -1,4 +1,4 @@
-# Coupled Dynamical Systems Simulations
+# Coupled Dynamical System Simulations
 
 This repository contains simulations of two coupled dynamical systems, providing insights into nonlinear dynamics and coupled oscillatory behavior:
 
